@@ -1,0 +1,46 @@
+url: ""
+
+# Site settings
+title: Searider Services
+email: info@seariderservices.com
+description: "We aims to provide a Taylor Made service to our Clients, embracing all their needs in Maritime transportation. ."
+
+
+# Team names, titles and social links
+people:
+- name: Henri Barnouin
+  pic: henri_2
+  position: Director
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 930 route des Dolines
+  - line: 06560 Sophia-Antipolis, France
+
+# Collections
+collections:
+  - services
+
+# Build settings
+markdown: kramdown
+permalink: pretty
