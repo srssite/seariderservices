@@ -25,3 +25,13 @@ layout: style
         top: -10px;
     }
 }
+
+#contact address {
+    padding: 30px 20px;
+    height: 300px;
+    width:450px;
+    margin-left:auto; margin-right:0;
+}
+section#contact .section-heading {
+    color: #333;
+}

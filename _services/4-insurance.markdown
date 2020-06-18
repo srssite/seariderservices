@@ -6,4 +6,4 @@ img: insurance.jpg
 thumbnail: insurance-thumb.jpg
 alt: insurance
 ---
-As a part of rendering a full service to our clients Shipowners and Charterers, with our insurance Partner we are able to provide competitive insurance covers for your vessels’ Hull & Machinery, or disponents’ Owners‘ liabilities. We also provide cargoes’ insurance covers for voyages charters.
+As part of the full service we offer our shipowner and charterer clients, we work with a trusted insurance partner to provide competitive cover for your vessels’ hull and machinery, as well as disponent owners‘ liabilities. We also provide cargoes insurance cover for voyage charters.

@@ -6,4 +6,4 @@ img: consultancy.jpg
 thumbnail: consultancy-thumb.jpg
 alt: consultancy
 ---
-Within the small tankers market, oil or chemical industry, whatever a specific market analysis or a technical research, we dedicate our talent and deliver the required information. Our research is unbiased and based on facts, and we deliver insightful high-quality and comprehensive report.
+We offer made-to-measure, expert consultancy in the small tankers market and oil and chemical industry, whether you are looking for a specific market analysis or technical research. We have experience researching availability and offers for specific types of small tankers. Our expertise also spans technical aspects and market research (supply and demand). The research we conduct can be relied upon to be unbiased and based on facts: the reports we deliver are insightful, high-quality and comprehensive.
