@@ -2,36 +2,4 @@
 layout: style
 ---
 
-.navbar__logo {
-    height: 100px;
-    position: relative;
-    display: inline-block;
-    top: -30px;
-}
-
-.navbar-shrink .navbar__logo {
-    height: 70px;
-    top: -25px;
-}
-
-@media screen and (max-width: 768px) {
-    .navbar__logo {
-        height: 50px;
-        top: -10px;
-    }
-
-    .navbar-shrink .navbar__logo {
-        height: 50px;
-        top: -10px;
-    }
-}
-
-#contact address {
-    padding: 30px 20px;
-    height: 300px;
-    width:450px;
-    margin-left:auto; margin-right:0;
-}
-section#contact .section-heading {
-    color: #333;
-}
+/* the custom css is in css/srs.scss */

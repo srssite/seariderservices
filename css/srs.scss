@@ -1,0 +1,55 @@
+---
+---
+
+
+@media screen and (min-width: 768px) {
+  .navbar {
+    min-height: 90px;
+  }
+}
+
+header .intro-text .intro-lead-in {
+  margin-bottom: 80px;
+
+  @media (min-width: 768px) {
+    margin-bottom: 80px;
+  }
+}
+
+
+.navbar__logo {
+  height: 230px;
+  position: relative;
+  display: inline-block;
+  top: -30px;
+
+    @media (max-width:992px) {
+      height: 150px;
+    }
+
+    @media (max-width: 768px) {
+      height: 50px;
+      top: -15px;
+  }
+}
+
+.navbar-shrink .navbar__logo {
+  height: 80px;
+  top: -25px;
+
+  @media (max-width: 768px) {
+    height: 50px;
+    top: -15px;
+  }
+}
+
+section#contact .section-heading {
+  color: #333;
+
+  address {
+    padding: 30px 20px;
+    height: 300px;
+    width:450px;
+    margin-left:auto; margin-right:0;
+  }
+}
